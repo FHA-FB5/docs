@@ -21,7 +21,7 @@ feature/fix branch with a name in this format:
 ```
 Where:  
 `feat` - a new feature or major update of existing functionality  
-`fix`  - a bug fix or small correction
+`fix`  - a bug fix or small correction  
 `issue ID` - ID of the github issue related to the feature/fix
 
 Example:  
